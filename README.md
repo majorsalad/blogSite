@@ -2,8 +2,8 @@
 A customizable blog site capable of creating, viewing, editing and deleting blog-posts using NodeJS, EJS, MongoDB, and a RESTful user API. 
 
 # How it works
-**Must have the required node packages installed**
-**Must have mongodb running in the terminal**
+**>Must have the required node packages installed**
+**>Must have mongodb running in the terminal**
 - After running the app.js using the node command, you must open it up in the browser via (http://localhost:3000/) 
 
 
@@ -15,7 +15,7 @@ Uses:
 
 
 **> The font-resizer link has no action as of yet**
-**> The login and admin functionalities have not yet been integrated. While there is an API for creating and managing users, that has not yet been integrated with the website.
+**> The login and admin functionalities have not yet been integrated. While there is an API for creating and managing users, that has not yet been integrated with the website.**
 
 
 
